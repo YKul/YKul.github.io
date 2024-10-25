@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+layout: single
+toc: true
+toc_icon: "cog"
 ---
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# INTRODUCTION
+## Mission Statement
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper massa dui, eget semper magna bibendum a. Duis non lorem neque. Mauris scelerisque, ligula et elementum ullamcorper, diam metus elementum velit, in luctus ipsum neque egestas tellus. In hac habitasse platea dictumst. Pellentesque venenatis eros massa, vel vestibulum risus tincidunt luctus. Proin vitae nibh dolor. Donec sit amet ante leo. Morbi nec purus a dui malesuada faucibus. Phasellus lorem sem, congue in tincidunt ac, luctus at sapien. Ut in pharetra tellus, eu dapibus tellus. Curabitur eu semper tellus. 
